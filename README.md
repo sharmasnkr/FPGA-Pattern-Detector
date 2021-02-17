@@ -11,3 +11,7 @@ It should start the searching the input again on the same cycle ack is first low
 (b) From Paper Section 2.3 – Three always block style with registered outputs. This and the previous registered-output style implementation should produce the exact same responses
 (c) From Paper Section 2.2 – One sequential always block style with registered outputs This and the next two registered-output style implementation should produce the exact same responses
 (d) From Paper Section 2.1 – Two always block style with combinational outputs. Modify your combinatorial-output state machine so that its output matches the like the registered output versions with respect to the value of the output at various clock edges.
+
+
+
+***For part B, just make a small change to part a
