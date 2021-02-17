@@ -1,4 +1,4 @@
-# RSD
+# Reconfigurable Syetem Design
 Create a single state-machine module to find the a pattern of an 8-bit input stream – the characters “boab” 
 (98,111,97, 98) – and produce an output signal when an end ’b’ is found within an instance the pattern. 
 Once an end ’b’ in the a pattern is found, the output signal should stay high until the input ack signal 
